@@ -1,4 +1,4 @@
-# Vue项目移动端vm适配方案
+# Vue项目移动端vw适配方案
 
 > 解决的问题
 - 处理引入的文件和资源路径的处理以及工作模式 postcss-import  postcss-url
